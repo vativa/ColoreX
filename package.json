@@ -1,6 +1,6 @@
 {
-    "name": "btmv",
-    "version": "0.1.0",
+    "name": "colorex",
+    "version": "0.1.1",
     "private": true,
     "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
     "devDependencies": {
